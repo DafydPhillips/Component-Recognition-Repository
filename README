@@ -1,0 +1,12 @@
+README
+
+Code and files required for the Component Recognition Prototype
+
+Language: Python (v3.8 or higher)
+Libraries: Tensorflow, 
+           Numpy, 
+           OpenCV
+
+data/: contains test models 1-5 for the Neural Network, trained at 10-50 epochs repsectively
+Shape_Data/: training dataset for Neural Network (derived from https://data.mendeley.com/datasets/wzr2yv7r53/1 by El Korchi Anas)
+img_test/: test images for 'read from filepath' functionality
